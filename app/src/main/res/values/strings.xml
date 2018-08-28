@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Planets List View</string>
+    <string name="send">Send</string>
+    <string name="settings">Settings</string>
+    <string name="forward">Forward</string>
+    <string name="delete">delete</string>
+    <string name="linearDemoBtn">Linear Layout Demo</string>
+    <string name="relativeDemoBtn">Relative Layout Demo</string>
+    <string name="listViewDemoBtn">List View Demo</string>
+    <string name="gridDemoBtn">Grid View Demo</string>
+</resources>
